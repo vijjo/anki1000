@@ -1,7 +1,8 @@
 ## Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ucINvF2OBP4QNsuWo0gPdnkwFTCG5GXN/view?usp=sharing">Download</a>
+  <a href="https://github.com/hieuvijjo/anki1000/blob/master/files/Glossika_Fluency_1.apkg.zip.001">Download part 1</a><br>
+  <a href="https://github.com/hieuvijjo/anki1000/blob/master/files/Glossika_Fluency_1.apkg.zip.002">Download part 2</a>
 </p>
 
 ## Hướng dẫn chung để cài add-on
