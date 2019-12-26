@@ -1,3 +1,9 @@
+# Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật:
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ucINvF2OBP4QNsuWo0gPdnkwFTCG5GXN/view?usp=sharing">Download</a>
+</p>
+
 
 
 # Các add-ons sử dụng trong video
@@ -19,7 +25,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     </p>
     
 ## Button Colours
-    
+
 * [Button Colours (Good, Again) - AnkiWeb](https://ankiweb.net/shared/info/2494384865): `2494384865`\
     Tô màu nút `Again` và `Good`
     
@@ -50,7 +56,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     </p>
 
 ## Syntax Highlighting for Card Layout Editor
-    
+
 * [Card Layout Editor - syntax highlighting, monospace font - AnkiWeb](https://ankiweb.net/shared/info/1483620388): `1483620388`\
     Hiện màu code khi sửa card.
 
@@ -59,7 +65,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     </p>
 
 ## Card Info During Review
-    
+
 * [Card Info During Review - AnkiWeb](https://ankiweb.net/shared/info/2179254157): `2179254157`\
     Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, hoặc nhấp phím tắt tương ứng.
     
@@ -68,7 +74,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     </p>
 
 ## Additional Card Fields
-    
+
 * [Additional Card Fields (Fork for 2.1) - AnkiWeb](https://ankiweb.net/shared/info/744725736): `744725736`\
     Hiện thêm thông tin cần thiết ngay trên card.
 
@@ -82,7 +88,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
 
 ## Advanced Browser
-    
+
 * [Advanced Browser - AnkiWeb](https://ankiweb.net/shared/info/874215009): `874215009`\
     Hiện thêm cột thông tin cho Browser.
 
