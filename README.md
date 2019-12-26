@@ -62,7 +62,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     - `n` : tạm dừng (pause) audio đang chơi, thích hợp khi tập đọc theo các đoạn ngắn
     - `m` : dừng hẳn (stop) audio đang chơi\
     
-    Nếu bạn nào thấy nhấp `p` hay `backspace` mà audio không quay lại tốc độ bình thường thì sửa bằng cách download [file này] (https://github.com/hieuvijjo/anki1000/blob/master/files/Audio_Controls.zip), giải nén ra, rồi copy đè như hướng dẫn bên dưới:
+    Nếu bạn nào thấy nhấp `p` hay `backspace` mà audio không quay lại tốc độ bình thường thì sửa bằng cách download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/Audio_Controls.zip), giải nén ra, rồi copy đè như hướng dẫn bên dưới:
     
     <p align="center">
     <img src="images/fix_playback_speed.gif" alt="Fix playback speed" width="100%">
