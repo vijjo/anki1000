@@ -88,7 +88,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
 
     <p align="center">
-    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="50%">
+    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="100%">
     </p>
 
 ## Advanced Browser
