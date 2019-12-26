@@ -87,6 +87,10 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
 * [Blitzkrieg: Advanced Browser Sidebar - AnkiWeb](https://ankiweb.net/shared/info/564851917): `564851917`\
     Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
 
+    <p align="center">
+    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="50%">
+    </p>
+
 ## Advanced Browser
 
 * [Advanced Browser - AnkiWeb](https://ankiweb.net/shared/info/874215009): `874215009`\
