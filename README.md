@@ -6,7 +6,7 @@
 Copy code của add-on vào hộp, ví dụ: `498789867`
 
 <p align="center">
-<img src="images/get_add_ons.jpg" alt="Cài add-on bằng code" width="600px">
+<img src="images/get_add_ons.jpg" alt="Cài add-on bằng code" width="60%">
 </p>
 
 ## Replay Buttons on card
@@ -15,7 +15,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Làm xuất hiện nút chơi lại audio trên card
 
     <p align="center">
-    <img src="images/replay_button.jpg" alt="Replay Button" width="500px">
+    <img src="images/replay_button.jpg" alt="Replay Button" width="50%">
     </p>
     
 ## Button Colours
@@ -24,7 +24,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Tô màu nút `Again` và `Good`
     
     <p align="center">
-    <img src="images/buttons_colored.jpg" alt="Buttons Colored" width="500px">
+    <img src="images/buttons_colored.jpg" alt="Buttons Colored" width="50%">
     </p>
     
 ## Control Audio Playback Speed
@@ -46,7 +46,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Chỉnh sửa card ngay trong lúc học.
     
     <p align="center">
-    <img src="images/edit_field_during_review.jpg" alt="Edit Field During Review" width="500px">
+    <img src="images/edit_field_during_review.jpg" alt="Edit Field During Review" width="50%">
     </p>
 
 ## Syntax Highlighting for Card Layout Editor
@@ -55,7 +55,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Hiện màu code khi sửa card.
 
     <p align="center">
-    <img src="images/syntax_highlight.jpg" alt="Syntax Highlighting" width="700px">
+    <img src="images/syntax_highlight.jpg" alt="Syntax Highlighting" width="70%">
     </p>
 
 ## Card Info During Review
@@ -64,7 +64,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, hoặc nhấp phím tắt tương ứng.
     
     <p align="center">
-    <img src="images/card_info.jpg" alt="Card Info During Review" width="500px">
+    <img src="images/card_info.jpg" alt="Card Info During Review" width="50%">
     </p>
 
 ## Additional Card Fields
@@ -73,7 +73,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Hiện thêm thông tin cần thiết ngay trên card.
 
     <p align="center">
-    <img src="images/additional_card_fields.jpg" alt="Additional Card Fields" width="500px">
+    <img src="images/additional_card_fields.jpg" alt="Additional Card Fields" width="50%">
     </p>
 
 ## Advanced Browser Sidebar
@@ -87,7 +87,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Hiện thêm cột thông tin cho Browser.
 
     <p align="center">
-    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="1000px">
+    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="100%">
     </p>
 
 ## Fastbar
@@ -97,13 +97,13 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
 
     <p align="center">
-    <img src="images/install_fastbar.gif" alt="Install fastbar" width="1000px">
+    <img src="images/install_fastbar.gif" alt="Install fastbar" width="100%">
     </p>
 
     Nếu làm đúng, sau khi tắt Anki đi bật lại, cả nhà vào trong `Browse`, sẽ thấy `FastBar` hiện ra.
 
     <p align="center">
-    <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="800px">
+    <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="80%">
     </p>
 
     
@@ -113,19 +113,19 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Add-on này cũng không cài được bằng code, cả nhà cần download file [tại đây](https://github.com/glutanimate/review-heatmap/releases), giống hướng dẫn bên dưới:
     
     <p align="center">
-    <img src="images/download_heatmap.gif" alt="Download Heatmap" width="1000px">
+    <img src="images/download_heatmap.gif" alt="Download Heatmap" width="100%">
     </p>
     
     Tiếp theo, cả nhà cài add-on bằng cách chọn `Tools > Add-ons` và kéo file vừa download vào giống thế này:
     
     <p align="center">
-    <img src="images/ankiaddon_installation.gif" alt="Install Heatmap" width="700px">
+    <img src="images/ankiaddon_installation.gif" alt="Install Heatmap" width="70%">
     </p>
 
     Sau khi cài xong, tắt Anki đi bật lại cả nhà sẽ thấy `Heatmap` hiện ở cuối:
 
     <p align="center">
-    <img src="images/heatmap.jpg" alt="Heatmap" width="600px">
+    <img src="images/heatmap.jpg" alt="Heatmap" width="60%">
     </p>
 
 ## Reset Card Scheduling
@@ -134,5 +134,5 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Reset lại các cards đã học.
     
     <p align="center">
-    <img src="images/reset_deck.jpg" alt="Reset Card Scheduling" width="500px">
+    <img src="images/reset_deck.jpg" alt="Reset Card Scheduling" width="50%">
     </p>
