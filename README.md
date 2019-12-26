@@ -131,7 +131,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     Nếu làm đúng, sau khi tắt Anki đi bật lại, cả nhà vào trong `Browse`, sẽ thấy `FastBar` hiện ra.
 
     <p align="center">
-    <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="80%">
+    <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="100%">
     </p>
 
     
