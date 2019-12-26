@@ -97,7 +97,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Hiện thêm cột thông tin cho Browser.
 
     <p align="center">
-    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="100%">
+    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="70%">
     </p>
 
 ## Fastbar
