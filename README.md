@@ -72,7 +72,6 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
 
 * Fastbar: [download](files\1955978390.zip)\
     Add-on này không cài được bằng code, cả nhà download file về, giải nén ra.\
-
     Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
 
     <p align="center">
