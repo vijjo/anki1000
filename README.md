@@ -19,18 +19,18 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 ## Danh sách add-on
 <!-- vim-markdown-toc GFM -->
 
-* [Replay Buttons on card](#replay-buttons-on-card)
-* [Button Colours](#button-colours)
-* [Control Audio Playback Speed](#control-audio-playback-speed)
-* [Edit Field During Review](#edit-field-during-review)
-* [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor)
-* [Card Info During Review](#card-info-during-review)
-* [Additional Card Fields](#additional-card-fields)
-* [Advanced Browser Sidebar](#advanced-browser-sidebar)
-* [Advanced Browser](#advanced-browser)
+* [Replay Buttons on card](#replay-buttons-on-card): `498789867`
+* [Button Colours](#button-colours): `2494384865`
+* [Control Audio Playback Speed](#control-audio-playback-speed): `1067025219`
+* [Edit Field During Review](#edit-field-during-review): `1020366288`
+* [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor): `1483620388`
+* [Card Info During Review](#card-info-during-review): `2179254157`
+* [Additional Card Fields](#additional-card-fields): `744725736`
+* [Advanced Browser Sidebar](#advanced-browser-sidebar): `564851917`
+* [Advanced Browser](#advanced-browser): `874215009`
 * [Fastbar](#fastbar)
 * [Review Heatmap](#review-heatmap)
-* [Reset Card Scheduling](#reset-card-scheduling)
+* [Reset Card Scheduling](#reset-card-scheduling): `300884351`
 
 <!-- vim-markdown-toc -->
 
