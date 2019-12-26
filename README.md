@@ -62,8 +62,15 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     - `n` : tạm dừng (pause) audio đang chơi, thích hợp khi tập đọc theo các đoạn ngắn
     - `m` : dừng hẳn (stop) audio đang chơi\
     
-    Lưu ý: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức sẽ bị mất tiếng, cả nhà nhấp lại `n` lần nữa để có tiếng lại.
+    Nếu bạn nào thấy nhấp `p` hay `backspace` mà audio không quay lại tốc độ bình thường thì sửa bằng cách download [file này] (https://github.com/hieuvijjo/anki1000/blob/master/files/Audio_Controls.zip), giải nén ra, rồi copy đè như hướng dẫn bên dưới:
     
+    <p align="center">
+    <img src="images/fix_playback_speed.gif" alt="Fix playback speed" width="100%">
+    </p>
+    
+    Nhớ tắt anki đi và bật lại!
+    
+    Lưu ý: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức sẽ bị mất tiếng, cả nhà nhấp lại `n` lần nữa để có tiếng lại.
 ## Edit Field During Review
 
 * [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288): `1020366288`\
@@ -121,7 +128,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 ## Fastbar
 
 * [Fastbar](files\1955978390.zip)\
-    Add-on này không cài được bằng code, cả nhà download [file này](files\1955978390.zip) về, giải nén ra.\
+    Add-on này không cài được bằng code, cả nhà download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/1955978390.zip) về, giải nén ra.\
     Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
 
     <p align="center">
