@@ -88,7 +88,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
 
     <p align="center">
-    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="100%">
+    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="70%">
     </p>
 
 ## Advanced Browser
@@ -97,7 +97,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
     Hiện thêm cột thông tin cho Browser.
 
     <p align="center">
-    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="70%">
+    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="100%">
     </p>
 
 ## Fastbar
