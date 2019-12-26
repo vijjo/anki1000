@@ -57,8 +57,8 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [Control Audio Playback Speed - AnkiWeb](https://ankiweb.net/shared/info/1067025219): `1067025219`\
     Thay đổi tốc độ audio, các phím tắt quan trọng:
     
-    - `[` : giảm tốc độ bớt 10%
-    - `]` : tăng tốc độ lên 10%
+    - `[` : giảm tốc độ bớt 10% tốc độ ban đầu
+    - `]` : tăng tốc độ lên 10% tốc độ ban đầu
     - `p` (win) / `Backspace` (mac) : trở lại tốc độ bình thường
     - `n` : tạm dừng (pause) audio đang chơi, thích hợp khi tập đọc theo các đoạn ngắn
     - `m` : dừng hẳn (stop) audio đang chơi\
