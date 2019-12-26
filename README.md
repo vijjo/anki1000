@@ -1,4 +1,4 @@
-# Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật:
+# Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ucINvF2OBP4QNsuWo0gPdnkwFTCG5GXN/view?usp=sharing">Download</a>
