@@ -44,7 +44,7 @@ Lưu ý: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức sẽ b�
     Hiện màu code khi sửa card.
 
     <p align="center">
-    <img src="images/syntax_highlight.png" alt="Syntax Highlighting" width="700px">
+    <img src="images/syntax_highlight.jpg" alt="Syntax Highlighting" width="700px">
     </p>
     
 * [Card Info During Review - AnkiWeb](https://ankiweb.net/shared/info/2179254157): `2179254157`\
@@ -52,7 +52,7 @@ Lưu ý: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức sẽ b�
 Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, hoặc nhấp phím tắt tương ứng.
     
     <p align="center">
-    <img src="images/card_info.png" alt="Card Info During Review" width="500px">
+    <img src="images/card_info.jpg" alt="Card Info During Review" width="500px">
     </p>
     
 * [Additional Card Fields (Fork for 2.1) - AnkiWeb](https://ankiweb.net/shared/info/744725736): `744725736`\
@@ -60,7 +60,7 @@ Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, ho
     Hiện thêm thông tin cần thiết ngay trên card.
 
     <p align="center">
-    <img src="images/additional_card_fields.png" alt="Additional Card Fields" width="500px">
+    <img src="images/additional_card_fields.jpg" alt="Additional Card Fields" width="500px">
     </p>
 
 * [Blitzkrieg: Advanced Browser Sidebar [BETA4] - AnkiWeb](https://ankiweb.net/shared/info/564851917): `564851917`\
@@ -72,7 +72,7 @@ Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, ho
     Hiện thêm cột thông tin cho Browser.
 
     <p align="center">
-    <img src="images/advanced_browser.png" alt="Advanced Browser" width="1000px">
+    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="1000px">
     </p>
 
 * Fastbar: [download](files\1955978390.zip)\
@@ -109,7 +109,7 @@ Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, ho
 Sau khi cài xong, tắt Anki đi bật lại cả nhà sẽ thấy `Heatmap` hiện ở cuối:
 
 <p align="center">
-<img src="images/heatmap.png" alt="Heatmap" width="600px">
+<img src="images/heatmap.jpg" alt="Heatmap" width="600px">
 </p>
 
 * [Reset Card Scheduling - AnkiWeb](https://ankiweb.net/shared/info/300884351): `300884351`
@@ -117,5 +117,5 @@ Sau khi cài xong, tắt Anki đi bật lại cả nhà sẽ thấy `Heatmap` hi
   Reset lại các cards đã học.
 
   <p align="center">
-  <img src="images/reset_deck.png" alt="Reset Card Scheduling" width="500px">
+  <img src="images/reset_deck.jpg" alt="Reset Card Scheduling" width="500px">
   </p>
