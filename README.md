@@ -13,6 +13,7 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
 <img src="images/get_add_ons.jpg" alt="Cài add-on bằng code" width="60%">
 </p>
 
+Có một số add on không cài được theo cách này. Mình sẽ hướng dẫn riêng bên dưới.
 
 ## Danh sách add-on
 <!-- vim-markdown-toc GFM -->
