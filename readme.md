@@ -5,7 +5,7 @@
   <a href="https://github.com/hieuvijjo/anki1000/blob/master/files/Glossika_Fluency_1.apkg.zip.002">Download part 2</a>
 </p>
 
-Sau khi download về xong, cả nhà giải nén và import bộ cards vào trong Anki bằng cách chọn: `File > Import ...`
+Sau khi download về, cả nhà giải nén và import bộ cards vào trong Anki bằng cách chọn: `File > Import ...`
 
 <p align="center">
 <img src="images/import_deck.gif" alt="Import Anki deck" width="80%">
