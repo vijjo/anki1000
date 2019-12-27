@@ -57,21 +57,14 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [Control Audio Playback Speed - AnkiWeb](https://ankiweb.net/shared/info/1067025219): `1067025219`\
     Thay đổi tốc độ audio, các phím tắt quan trọng:
     
-    - `[` : giảm tốc độ bớt 10% tốc độ ban đầu
-    - `]` : tăng tốc độ lên 10% tốc độ ban đầu
-    - `p` (win) / `Backspace` (mac) : trở lại tốc độ bình thường
+    - `[` : giảm 10% tốc độ ban đầu
+    - `]` : tăng 10% tốc độ ban đầu
+    - `p` (win) / `backspace` (mac) : trở lại tốc độ bình thường
     - `n` : tạm dừng (pause) audio đang chơi, thích hợp khi tập đọc theo các đoạn ngắn
     - `m` : dừng hẳn (stop) audio đang chơi\
-    
-    Nếu bạn nào thấy nhấp `p` hay `backspace` mà audio không quay lại tốc độ bình thường thì sửa bằng cách download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/Audio_Controls.zip), giải nén ra, rồi copy đè như hướng dẫn bên dưới:
-    
-    <p align="center">
-    <img src="images/fix_playback_speed.gif" alt="Fix playback speed" width="100%">
-    </p>
-    
-    Nhớ tắt anki đi và bật lại!
-    
-    Lưu ý: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức sẽ bị mất tiếng, cả nhà nhấp lại `n` lần nữa để có tiếng lại.
+
+> **Lưu ý**: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức **sẽ bị mất tiếng**, cả nhà cần nhấp lại `n` lần nữa để có tiếng lại.
+
 ## Edit Field During Review
 
 * [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288): `1020366288`\
