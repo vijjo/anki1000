@@ -5,6 +5,12 @@
   <a href="https://github.com/hieuvijjo/anki1000/blob/master/files/Glossika_Fluency_1.apkg.zip.002">Download part 2</a>
 </p>
 
+Sau khi download về xong, cả nhà giải nén và import bộ cards vào trong Anki bằng cách chọn: `File > Import ...`
+
+<p align="center">
+<img src="images/import_deck.gif" alt="Import Anki deck" width="80%">
+</p>
+
 ## Hướng dẫn chung để cài add-on
 
 Để cài add-ons, trong Anki trên thanh menubar cả nhà chọn: `Tools > Add-ons > Get Add-ons...`<br>
@@ -13,6 +19,8 @@ Copy code của add-on vào hộp, ví dụ: `498789867`
 <p align="center">
 <img src="images/install_addons.gif" alt="Cài add-on bằng code" width="80%">
 </p>
+
+> **Lưu ý**: sau khi cài add-ons xong cả nhà cần tắt Anki đi và bật lại. Có thể tranh thủ cài nhiều add-ons một lượt xong đó tắt đi bật lại cũng được. 
 
 Có một số add on không cài được theo cách này. Mình sẽ hướng dẫn riêng bên dưới.
 
