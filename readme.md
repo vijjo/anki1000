@@ -7,7 +7,7 @@
 
 ## Hướng dẫn chung để cài add-on
 
-Để cài add-ons, trong Anki trên thanh menubar cả nhà chọn: `Tools > Add-ons > Get Add-ons...`\
+Để cài add-ons, trong Anki trên thanh menubar cả nhà chọn: `Tools > Add-ons > Get Add-ons...`<br>
 Copy code của add-on vào hộp, ví dụ: `498789867`
 
 <p align="center">
@@ -36,7 +36,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Replay Buttons on card
 
-* [Replay buttons on card - AnkiWeb](https://ankiweb.net/shared/info/498789867): `498789867`\
+* [Replay buttons on card - AnkiWeb](https://ankiweb.net/shared/info/498789867): `498789867`<br>
     Làm xuất hiện nút chơi lại audio trên card
 
     <p align="center">
@@ -45,7 +45,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     
 ## Button Colours
 
-* [Button Colours (Good, Again) - AnkiWeb](https://ankiweb.net/shared/info/2494384865): `2494384865`\
+* [Button Colours (Good, Again) - AnkiWeb](https://ankiweb.net/shared/info/2494384865): `2494384865`<br>
     Tô màu nút `Again` và `Good`
     
     <p align="center">
@@ -54,20 +54,20 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     
 ## Control Audio Playback Speed
 
-* [Control Audio Playback Speed - AnkiWeb](https://ankiweb.net/shared/info/1067025219): `1067025219`\
+* [Control Audio Playback Speed - AnkiWeb](https://ankiweb.net/shared/info/1067025219): `1067025219`<br>
     Thay đổi tốc độ audio, các phím tắt quan trọng:
     
     - `[` : giảm 10% tốc độ ban đầu
     - `]` : tăng 10% tốc độ ban đầu
     - `p` (win) / `backspace` (mac) : trở lại tốc độ bình thường
     - `n` : tạm dừng (pause) audio đang chơi, thích hợp khi tập đọc theo các đoạn ngắn
-    - `m` : dừng hẳn (stop) audio đang chơi\
+    - `m` : dừng hẳn (stop) audio đang chơi<br>
 
 > **Lưu ý**: nếu cả nhà nhấp `n` rồi chuyển card ngay lập tức **sẽ bị mất tiếng**, cả nhà cần nhấp lại `n` lần nữa để có tiếng lại.
 
 ## Edit Field During Review
 
-* [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288): `1020366288`\
+* [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288): `1020366288`<br>
     Chỉnh sửa card ngay trong lúc học.
     
     <p align="center">
@@ -76,7 +76,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Syntax Highlighting for Card Layout Editor
 
-* [Card Layout Editor - syntax highlighting, monospace font - AnkiWeb](https://ankiweb.net/shared/info/1483620388): `1483620388`\
+* [Card Layout Editor - syntax highlighting, monospace font - AnkiWeb](https://ankiweb.net/shared/info/1483620388): `1483620388`<br>
     Hiện màu code khi sửa card.
 
     <p align="center">
@@ -85,7 +85,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Card Info During Review
 
-* [Card Info During Review - AnkiWeb](https://ankiweb.net/shared/info/2179254157): `2179254157`\
+* [Card Info During Review - AnkiWeb](https://ankiweb.net/shared/info/2179254157): `2179254157`<br>
     Hiện thông tin cards khi review, bằng cách chọn `Tools > Card Stats`, hoặc nhấp phím tắt tương ứng.
     
     <p align="center">
@@ -94,7 +94,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Additional Card Fields
 
-* [Additional Card Fields (Fork for 2.1) - AnkiWeb](https://ankiweb.net/shared/info/744725736): `744725736`\
+* [Additional Card Fields (Fork for 2.1) - AnkiWeb](https://ankiweb.net/shared/info/744725736): `744725736`<br>
     Hiện thêm thông tin cần thiết ngay trên card.
 
     <p align="center">
@@ -103,7 +103,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Advanced Browser Sidebar
 
-* [Blitzkrieg: Advanced Browser Sidebar - AnkiWeb](https://ankiweb.net/shared/info/564851917): `564851917`\
+* [Blitzkrieg: Advanced Browser Sidebar - AnkiWeb](https://ankiweb.net/shared/info/564851917): `564851917`<br>
     Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
 
     <p align="center">
@@ -112,7 +112,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Advanced Browser
 
-* [Advanced Browser - AnkiWeb](https://ankiweb.net/shared/info/874215009): `874215009`\
+* [Advanced Browser - AnkiWeb](https://ankiweb.net/shared/info/874215009): `874215009`<br>
     Hiện thêm cột thông tin cho Browser.
 
     <p align="center">
@@ -121,8 +121,8 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Fastbar
 
-* [Fastbar](files\1955978390.zip)\
-    Add-on này không cài được bằng code, cả nhà download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/1955978390.zip) về, giải nén ra.\
+* [Fastbar](files<br>1955978390.zip)<br>
+    Add-on này không cài được bằng code, cả nhà download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/1955978390.zip) về, giải nén ra.<br>
     Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
 
     <p align="center">
@@ -138,7 +138,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     
 ## Review Heatmap
 
-* [Review heatmap](https://github.com/glutanimate/review-heatmap):\
+* [Review heatmap](https://github.com/glutanimate/review-heatmap):<br>
     Add-on này cũng không cài được bằng code, cả nhà cần download file [tại đây](https://github.com/glutanimate/review-heatmap/releases), giống hướng dẫn bên dưới:
     
     <p align="center">
@@ -159,7 +159,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Reset Card Scheduling
 
-* [Reset Card Scheduling - AnkiWeb](https://ankiweb.net/shared/info/300884351): `300884351`\
+* [Reset Card Scheduling - AnkiWeb](https://ankiweb.net/shared/info/300884351): `300884351`<br>
     Reset lại các cards đã học.
     
     <p align="center">
