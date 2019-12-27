@@ -11,7 +11,7 @@
 Copy code của add-on vào hộp, ví dụ: `498789867`
 
 <p align="center">
-<img src="images/get_add_ons.jpg" alt="Cài add-on bằng code" width="60%">
+<img src="images/install_addons.gif" alt="Cài add-on bằng code" width="80%">
 </p>
 
 Có một số add on không cài được theo cách này. Mình sẽ hướng dẫn riêng bên dưới.
