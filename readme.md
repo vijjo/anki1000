@@ -34,10 +34,12 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor): `1483620388`
 * [Card Info During Review](#card-info-during-review): `2179254157`
 * [Additional Card Fields](#additional-card-fields): `744725736`
+* [Deck Stats](#deck-stats): `1421528223`
+* [More Overview Stats](#more-overview-stats): `2116130837`
+* [Review Heatmap](#review-heatmap)
+* [Fastbar](#fastbar)
 * [Advanced Browser Sidebar](#advanced-browser-sidebar): `564851917`
 * [Advanced Browser](#advanced-browser): `874215009`
-* [Fastbar](#fastbar)
-* [Review Heatmap](#review-heatmap)
 * [Reset Card Scheduling](#reset-card-scheduling): `300884351`
 
 <!-- vim-markdown-toc -->
@@ -109,41 +111,27 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     <img src="images/additional_card_fields.jpg" alt="Additional Card Fields" width="50%">
     </p>
 
-## Advanced Browser Sidebar
+## Deck Stats
 
-* [Blitzkrieg: Advanced Browser Sidebar - AnkiWeb](https://ankiweb.net/shared/info/564851917): `564851917`<br>
-    Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
+* [Deck Stats - AnkiWeb](https://ankiweb.net/shared/info/1421528223): `1421528223`<br>
 
-    <p align="center">
-    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="70%">
-    </p>
+  Hiện tổng số cards mới và tổng số cards cần ôn tập.
 
-## Advanced Browser
+  <p align="center">
+  <img src="images/deck_stats.jpg" alt="Download Heatmap" width="60%">
+  </p>
 
-* [Advanced Browser - AnkiWeb](https://ankiweb.net/shared/info/874215009): `874215009`<br>
-    Hiện thêm cột thông tin cho Browser.
+## More Overview Stats
 
-    <p align="center">
-    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="100%">
-    </p>
+* [More Overview Stats - AnkiWeb](https://ankiweb.net/shared/info/2116130837): `2116130837`<br>
 
-## Fastbar
+  Hiện thêm một số thông tin tổng thể về từng bộ cards.
 
-* [Fastbar](files<br>1955978390.zip)<br>
-    Add-on này không cài được bằng code, cả nhà download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/1955978390.zip) về, giải nén ra.<br>
-    Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
+  <p align="center">
+  <img src="images/more_overview_stats_1.jpg" alt="Download Heatmap" width="60%"><br><br>
+  <img src="images/more_overview_stats_2.jpg" alt="Download Heatmap" width="60%">
+  </p>
 
-    <p align="center">
-    <img src="images/install_fastbar.gif" alt="Install fastbar" width="100%">
-    </p>
-
-    Nếu làm đúng, sau khi tắt Anki đi bật lại, cả nhà vào trong `Browse`, sẽ thấy `FastBar` hiện ra.
-
-    <p align="center">
-    <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="100%">
-    </p>
-
-    
 ## Review Heatmap
 
 * [Review heatmap](https://github.com/glutanimate/review-heatmap):<br>
@@ -163,6 +151,41 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
     <p align="center">
     <img src="images/heatmap.jpg" alt="Heatmap" width="60%">
+    </p>
+
+## Fastbar
+
+* [Fastbar](files<br>1955978390.zip)<br>
+    Add-on này không cài được bằng code, cả nhà download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/1955978390.zip) về, giải nén ra.<br>
+    Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
+
+    <p align="center">
+    <img src="images/install_fastbar.gif" alt="Install fastbar" width="100%">
+    </p>
+
+    Nếu làm đúng, sau khi tắt Anki đi bật lại, cả nhà vào trong `Browse`, sẽ thấy `FastBar` hiện ra.
+
+    <p align="center">
+    <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="100%">
+    </p>
+
+    
+## Advanced Browser Sidebar
+
+* [Blitzkrieg: Advanced Browser Sidebar - AnkiWeb](https://ankiweb.net/shared/info/564851917): `564851917`<br>
+    Đổi tên, sắp xếp, chỉnh sửa options cho các bộ cards ngay trong browser.
+
+    <p align="center">
+    <img src="images/demo_sidebar.gif" alt="Demo Sidebar" width="70%">
+    </p>
+
+## Advanced Browser
+
+* [Advanced Browser - AnkiWeb](https://ankiweb.net/shared/info/874215009): `874215009`<br>
+    Hiện thêm cột thông tin cho Browser.
+
+    <p align="center">
+    <img src="images/advanced_browser.jpg" alt="Advanced Browser" width="100%">
     </p>
 
 ## Reset Card Scheduling
