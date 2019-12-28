@@ -67,7 +67,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
     
     - `[` : giảm 10% tốc độ ban đầu
     - `]` : tăng 10% tốc độ ban đầu
-    - `p` (win) / `backspace` (mac) : trở lại tốc độ bình thường
+    - `p` (win) / `backspace/delete` (mac) : trở lại tốc độ bình thường
     - `n` : tạm dừng (pause) audio đang chơi, thích hợp khi tập đọc theo các đoạn ngắn
     - `m` : dừng hẳn (stop) audio đang chơi<br>
 
