@@ -1,11 +1,10 @@
 ## Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật
 
 <p align="center">
-  <a href="https://github.com/hieuvijjo/anki1000/blob/master/files/Glossika_Fluency_1.apkg.zip.001">Download part 1</a><br>
-  <a href="https://github.com/hieuvijjo/anki1000/blob/master/files/Glossika_Fluency_1.apkg.zip.002">Download part 2</a>
+  <a href="https://drive.google.com/file/d/1wnSry2Z4R-O-3tujUXe1pXooW0Yl4qie/view?usp=sharing">Download</a><br>
 </p>
 
-Sau khi download **cả hai phần** về, cả nhà giải nén thành 1 file duy nhất `Glossika_Fluency_1.apkg` và import file này vào trong Anki bằng cách chọn: `File > Import ...`
+Sau khi download về, cả nhà giải nén thành file `Glossika_Fluency_1.apkg` và import file này vào trong Anki bằng cách chọn: `File > Import ...`
 
 <p align="center">
 <img src="images/import_deck.gif" alt="Import Anki deck" width="80%">
