@@ -28,7 +28,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 * [Replay Buttons on card](#replay-buttons-on-card): `498789867`
 * [Button Colours](#button-colours): `2494384865`
-* [Control Audio Playback Speed](#control-audio-playback-speed): `1067025219`
+* [Control Audio Playback Speed](#control-audio-playback-speed): (bị hỏng đừng cài) `1067025219`
 * [Edit Field During Review](#edit-field-during-review): `1020366288`
 * [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor): `1483620388`
 * [Card Info During Review](#card-info-during-review): `2179254157`
@@ -64,6 +64,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 ## Control Audio Playback Speed
 
 * [Control Audio Playback Speed - AnkiWeb](https://ankiweb.net/shared/info/1067025219): `1067025219`<br>
+    (Không còn tương thích với Anki mới, xin đừng cài!)
     Thay đổi tốc độ audio, các phím tắt quan trọng:
     
     - `[` : giảm 10% tốc độ ban đầu
