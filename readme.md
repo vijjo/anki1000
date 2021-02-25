@@ -1,7 +1,7 @@
 ## Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1wnSry2Z4R-O-3tujUXe1pXooW0Yl4qie/view?usp=sharing">Download</a><br>
+  <a href="https://drive.google.com/file/d/14_yXQ8MYLO7EkizHUh5gwS6SIS68AtsK/view?usp=sharing">Download</a><br>
 </p>
 
 Sau khi download về, cả nhà giải nén thành file `Glossika_Fluency_1.apkg` và import file này vào trong Anki bằng cách chọn: `File > Import ...`
