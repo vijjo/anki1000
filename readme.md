@@ -25,7 +25,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Danh sách add-on
 <!-- vim-markdown-toc GFM -->
-(Lưu ý, một số add-ons có thể không còn chạy t
+(Lưu ý, một số add-ons có thể không còn chạy trên Anki mới nhất)
 * [Replay Buttons on card](#replay-buttons-on-card): `498789867`
 * [Button Colours](#button-colours): `2494384865`
 * [Control Audio Playback Speed](#control-audio-playback-speed): (bị hỏng đừng cài) `1067025219`
