@@ -25,7 +25,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Danh sách add-on
 <!-- vim-markdown-toc GFM -->
-
+(Lưu ý, một số add-ons có thể không còn chạy t
 * [Replay Buttons on card](#replay-buttons-on-card): `498789867`
 * [Button Colours](#button-colours): `2494384865`
 * [Control Audio Playback Speed](#control-audio-playback-speed): (bị hỏng đừng cài) `1067025219`
@@ -37,7 +37,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [More Overview Stats](#more-overview-stats): `2116130837`
 * [Review Heatmap](#review-heatmap)
 * [Fastbar](#fastbar)
-* [Advanced Browser Sidebar](#advanced-browser-sidebar): `564851917`
+* [Advanced Browser Sidebar](#advanced-browser-sidebar): (không tương thích với Anki mới nhất) `564851917`
 * [Advanced Browser](#advanced-browser): `874215009`
 * [Reset Card Scheduling](#reset-card-scheduling): `300884351`
 
