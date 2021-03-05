@@ -30,7 +30,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [Button Colours](#button-colours): `2494384865`
 * [Control Audio Playback Speed](#control-audio-playback-speed): (bị hỏng đừng cài) `1067025219`
 * [Edit Field During Review](#edit-field-during-review): `1020366288`
-* [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor): `1483620388`
+* [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor): (không tương thích với Anki mới) `1483620388`
 * [Card Info During Review](#card-info-during-review): `2179254157`
 * [Additional Card Fields](#additional-card-fields): `744725736`
 * [Deck Stats](#deck-stats): `1421528223`
