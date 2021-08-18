@@ -1,14 +1,4 @@
-## Bộ 1000 câu căn bản tiếng Anh, tiếng Nhật
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/14_yXQ8MYLO7EkizHUh5gwS6SIS68AtsK/view?usp=sharing">Download</a><br>
-</p>
-
-Sau khi download về, cả nhà giải nén thành file `Glossika_Fluency_1.apkg` và import file này vào trong Anki bằng cách chọn: `File > Import ...`
-
-<p align="center">
-<img src="images/import_deck.gif" alt="Import Anki deck" width="80%">
-</p>
 
 ## Hướng dẫn chung để cài add-on
 
