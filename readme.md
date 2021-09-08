@@ -145,15 +145,8 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Fastbar
 
-* [Fastbar](files<br>1955978390.zip)<br>
-    Add-on này không cài được bằng code, cả nhà download [file này](https://github.com/hieuvijjo/anki1000/blob/master/files/1955978390.zip) về, giải nén ra.<br>
-    Sau đó chọn `Tools > Add-ons > Get Files`  và copy thử mục vừa giải nén vào đây.
-
-    <p align="center">
-    <img src="images/install_fastbar.gif" alt="Install fastbar" width="100%">
-    </p>
-
-    Nếu làm đúng, sau khi tắt Anki đi bật lại, cả nhà vào trong `Browse`, sẽ thấy `FastBar` hiện ra.
+* [Fastbar](https://ankiweb.net/shared/info/46611790): `46611790`<br>
+    Cả nhà vào trong `Browse`, sẽ thấy `FastBar` hiện ra.
 
     <p align="center">
     <img src="images/fastbar.jpg" alt="Fastbar in Browse" width="100%">
