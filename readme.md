@@ -25,7 +25,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [Additional Card Fields](#additional-card-fields): (không recommend cài nữa) `744725736`
 * [Deck Stats](#deck-stats): `1421528223`
 * [More Overview Stats](#more-overview-stats): `2116130837`
-* [Review Heatmap](#review-heatmap)
+* [Review Heatmap](#review-heatmap) (nhấp để xem cách cài)
 * [Fastbar](#fastbar): `46611790`
 * [Advanced Browser Sidebar](#advanced-browser-sidebar): (không tương thích với Anki mới nhất) `564851917`
 * [Advanced Browser](#advanced-browser): `874215009`
