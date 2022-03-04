@@ -19,7 +19,7 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 * [Replay Buttons on card](#replay-buttons-on-card): (Anki phiên bản mới không cần) `498789867`
 * [Button Colours](#button-colours): `2494384865`
 * [Control Audio Playback Speed](#control-audio-playback-speed): (bị hỏng đừng cài) `1067025219`
-* [Edit Field During Review](#edit-field-during-review): `1020366288`
+* [Edit Field During Review](#edit-field-during-review): `385888438`
 * [Syntax Highlighting for Card Layout Editor](#syntax-highlighting-for-card-layout-editor): (không tương thích với Anki mới) `1483620388`
 * [Card Info During Review](#card-info-during-review): `2179254157`
 * [Additional Card Fields](#additional-card-fields): (không recommend cài nữa) `744725736`
@@ -67,8 +67,8 @@ Có một số add on không cài được theo cách này. Mình sẽ hướng 
 
 ## Edit Field During Review
 
-* [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288): `1020366288`<br>
-    Chỉnh sửa card ngay trong lúc học.
+* [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/385888438): `385888438`<br>
+    Chỉnh sửa card ngay trong lúc học. Giữ phím `Ctrl` để chỉnh sửa.
     
     <p align="center">
     <img src="images/edit_field_during_review.jpg" alt="Edit Field During Review" width="50%">
